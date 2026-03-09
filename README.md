@@ -17,7 +17,8 @@ Este projeto apresenta uma análise completa de dados de Recursos Humanos, utili
 Demonstrar como dados de RH podem ser transformados em insights estratégicos para apoiar decisões de gestão de pessoas.
 
 ## 📷 Exemplos de Visualizações
-![Dashboard de RH](images/dashboard_rh.png)
+https://github.com/Auriacarvalho/An-lise-de-RH/blob/main/(imagesdashboard_rh.png.jpeg
+
 
 ## 🛠️ Tecnologias
 - Excel
