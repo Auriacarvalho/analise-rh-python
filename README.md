@@ -19,6 +19,7 @@ Demonstrar como dados de RH podem ser transformados em insights estratégicos pa
 ## 📷 Exemplos de Visualizações
 https://github.com/Auriacarvalho/An-lise-de-RH/blob/main/(imagesdashboard_rh.png.jpeg
 
+https://github.com/Auriacarvalho/An-lise-de-RH/blob/main/(imagesdashboard_rh1.png.jpeg
 
 ## 🛠️ Tecnologias
 - Excel
